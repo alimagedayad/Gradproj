@@ -1,0 +1,10 @@
+/* sidebar */
+.sidebar {
+    background-color: white;
+}
+
+/* sidebar links */
+.nav-text {
+    letter-spacing: 1px;
+    text-transform: uppercase;
+}
